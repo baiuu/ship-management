@@ -1,0 +1,21 @@
+D:\Marina\Marina\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Marina\Marina\obj\x86\Debug\Marina.GUI.AddCustomer.resources
+D:\Marina\Marina\obj\x86\Debug\Marina.MainMenu.resources
+D:\Marina\Marina\obj\x86\Debug\Marina.Properties.Resources.resources
+D:\Marina\Marina\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Marina\Marina\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Marina\Marina\bin\Debug\Marina.exe
+D:\Marina\Marina\bin\Debug\Marina.pdb
+D:\Marina\Marina\obj\x86\Debug\Marina.exe
+D:\Marina\Marina\obj\x86\Debug\Marina.pdb
+D:\Marina\Marina\obj\x86\Debug\Marina.GUI.SlipwayManage.resources
+D:\Marina\Marina\obj\x86\Debug\Marina.GUI.FindCustomer.resources
+D:\Marina\Marina\obj\x86\Debug\Marina.GUI.AddBoat.resources
+D:\Marina\Marina\obj\x86\Debug\Marina.GUI.AddSlipway.resources
+D:\Marina\Marina\bin\Debug\Marina.exe.config
+F:\Marina\Marina\bin\Debug\Marina.exe.config
+F:\Marina\Marina\obj\x86\Debug\Marina.exe
+F:\Marina\Marina\obj\x86\Debug\Marina.pdb
+C:\Documents and Settings\Administrator\桌面\Marina\Marina\bin\Debug\Marina.exe.config
+C:\Documents and Settings\Administrator\桌面\Marina\Marina\obj\x86\Debug\Marina.exe
+C:\Documents and Settings\Administrator\桌面\Marina\Marina\obj\x86\Debug\Marina.pdb
